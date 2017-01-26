@@ -1,0 +1,3 @@
+includeFlat "shared"
+includeFlat "api"
+includeFlat "services"

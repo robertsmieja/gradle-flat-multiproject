@@ -61,3 +61,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#IDEA
+.idea
+out/
+*.iml
+*.ipr
+
+#Gradle
+build/
+.gradle/
